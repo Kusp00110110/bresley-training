@@ -598,7 +598,7 @@ test('rejects password without number', () => {
 ```
 
 Also consider: special characters requirement?
-```
+
 
 ## Advanced Review Techniques
 
